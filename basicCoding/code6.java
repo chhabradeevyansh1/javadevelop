@@ -7,5 +7,5 @@ public class code6 {
     }
     public static void changeName(String naam){
         naam="Rahul";
-    }
+    } //a new change is made and i m commiting this
 }
